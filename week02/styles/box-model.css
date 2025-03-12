@@ -1,14 +1,14 @@
 .callout {
 	max-width: 100%;
     margin: 50px;
-    border: 1 solid black;
+    border: 0;
     padding: 20px;
     background-color: rgba(0, 28, 70, 0.979);
     color: white;
 }
 
 .callout img {
-	position: float;
+	position: relative;
     float: right;
     margin: 10px;
     border: 1px solid white;
